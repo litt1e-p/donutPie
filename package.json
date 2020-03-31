@@ -1,0 +1,33 @@
+{
+  "name": "donut-pie",
+  "version": "0.0.1",
+  "description": "half donut pie chart which using d3.js for vue",
+  "config": {
+    "libName": "donutPie"
+  },
+  "keywords": [
+    "donut-chart",
+    "pie",
+    "semi-pie",
+    "d3",
+    "svg",
+    "donut-pie"
+  ],
+  "author": "litt1e-p",
+  "license": "MIT",
+  "main": "dist/donutPie.umd.js",
+  "module": "dist/donutPie.esm.js",
+  "unpkg": "dist/donutPie.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litt1e-p/donutPie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/litt1e-p/donutPie/issues"
+  },
+  "homepage": "https://github.com/litt1e-p/donutPie#readme",
+  "dependencies": {
+    "vue": "^2.6.10",
+    "d3": "^5.15.0"
+  }
+}
