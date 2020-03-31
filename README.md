@@ -11,6 +11,7 @@ npm i donut-pie
 #### Usage
 
 1. global registration
+
 ```js
 // in main.js
 import DonutPie from 'donut-pie'
@@ -19,7 +20,7 @@ import DonutPie from 'donut-pie'
 Vue.use(DonutPie)
 ```
 
-2. use as vue component
+1. use as vue component
 
 ```js
 // in your vue file
