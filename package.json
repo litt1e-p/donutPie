@@ -1,6 +1,6 @@
 {
   "name": "donut-pie",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "half donut pie chart which using d3.js for vue",
   "config": {
     "libName": "donutPie"
@@ -11,7 +11,8 @@
     "semi-pie",
     "d3",
     "svg",
-    "donut-pie"
+    "donut-pie",
+    "donut"
   ],
   "author": "litt1e-p",
   "license": "MIT",
