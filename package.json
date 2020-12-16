@@ -1,6 +1,6 @@
 {
   "name": "donut-pie",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "half donut pie chart which using d3.js for vue",
   "config": {
     "libName": "donutPie"
@@ -28,8 +28,9 @@
   },
   "homepage": "https://github.com/litt1e-p/donutPie#readme",
   "dependencies": {
-    "vue": "^2.6.10",
+    "vue": "^2.6.12",
     "d3": "^5.15.0",
-    "core-js": "^3.8.1"
+    "core-js": "^3.8.1",
+    "regenerator-runtime": "^0.13.7"
   }
 }
