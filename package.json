@@ -1,6 +1,6 @@
 {
   "name": "donut-pie",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "half donut pie chart which using d3.js for vue",
   "config": {
     "libName": "donutPie"
